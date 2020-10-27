@@ -1,0 +1,1 @@
+{"otherData": {},"traceEvents":[{"cat":"function","dur":29352,"name":"void __cdecl MemoryPoolTest(int)","ph":"X","pid":0,"tid":4068479417,"ts":986022041119},{"cat":"function","dur":95728,"name":"void __cdecl MallocTest(int)","ph":"X","pid":0,"tid":1304723882,"ts":986022040953}]}
